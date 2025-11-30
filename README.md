@@ -94,7 +94,7 @@ pip install -r requirements.txt
 
 ## Training & Evaluation
 
-- Fine-tuned **LLaMA-based models** with **LoRA adapters** to reduce GPU memory usage.  
+- Fine-tuned **LLaMA-instruct models** with **LoRA adapters** to reduce GPU memory usage.  
 - Evaluated using metrics: **Accuracy, Precision, Recall, and F1 Score**.  
 
 ---
