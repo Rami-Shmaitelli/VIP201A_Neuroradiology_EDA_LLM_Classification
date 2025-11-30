@@ -96,7 +96,6 @@ pip install -r requirements.txt
 
 - Fine-tuned **LLaMA-based models** with **LoRA adapters** to reduce GPU memory usage.  
 - Evaluated using metrics: **Accuracy, Precision, Recall, and F1 Score**.  
-- Predictions and metrics are saved in **`outputs/`** as `.csv` or `.xlsx` for further analysis.  
 
 ---
 
