@@ -6,7 +6,7 @@ This repository contains implementations of **Large Language Models (LLMs)** app
 
 The project demonstrates:  
 - Preprocessing and class balancing using **undersampling**.  
-- Fine-tuning **LLaMA-based models** with **LoRA adapters** for memory-efficient training.  
+- Fine-tuning **LLaMA-instruct models** with **LoRA adapters** for memory-efficient training.  
 - Evaluation using standard metrics: Accuracy, Precision, Recall, and F1 Score.  
 
 ---
