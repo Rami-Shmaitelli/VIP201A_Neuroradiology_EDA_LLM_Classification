@@ -1,0 +1,23 @@
+# Transformers & LLM training
+transformers==4.57.2
+trl==0.24.0
+peft==0.18.0
+datasets==2.13.1
+torch==2.0.1
+torchvision==0.15.2
+bitsandbytes==0.39.0
+accelerate==0.22.0
+
+# Data manipulation
+pandas==2.2.2
+numpy==2.0.2
+scikit-learn==1.6.1
+imbalanced-learn==0.14.0
+
+# Evaluation & metrics
+scipy==1.16.3
+
+# Utilities
+tqdm==4.67.1
+matplotlib==3.7.2
+openpyxl==3.1.6
