@@ -119,7 +119,7 @@ pip install -r requirements.txt
 
 ## Author
 
-- **Rami Shmaitelli
+- Rami Shmaitelli
 
 ---
 
