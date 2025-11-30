@@ -125,8 +125,9 @@ pip install -r requirements.txt
 
 ## References
 
--MS Neuroradiology Dataset (ms_text_data_cleaned) – Provided by the American University of Beirut Medical Center (AUBMC) for the VIP201A project. This cleaned dataset was used for training and evaluating models for Evidence of Disease Activity (EDA) / No Evidence of Disease Activity (NEDA) classification.
+- MS Neuroradiology Dataset (ms_text_data_cleaned) – Provided by the American University of Beirut Medical Center (AUBMC) for the VIP201A project. This cleaned dataset was used for training and evaluating models for Evidence of Disease Activity (EDA) / No Evidence of Disease Activity (NEDA) classification.
 - UC Irvine Machine Learning Repository: [SMS Spam Dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)  
+- YouTube Tutorial Reference: [https://www.youtube.com/watch?v=pTaSDVz0gok&t=933s](https://www.youtube.com/watch?v=pTaSDVz0gok&t=933s)
 - Unsloth LoRA Hyperparameters Guide – [https://docs.unsloth.ai/get-started/fine-tuning-llms-guide](https://docs.unsloth.ai/get-started/fine-tuning-llms-guide)
 - imbalanced-learn library for dataset balancing (undersampling)  
 - scikit-learn for train/test/validation splitting and metrics computation
