@@ -47,7 +47,8 @@ The primary aim is to develop a **robust AI model capable of classifying MS neur
 VIP201A_Neuroradiology_EDA_LLM_Classification/
 │
 ├── data/                     # Preprocessed datasets
-│   ├── train.json
+│   ├── ms_text_data_cleaned.xslx
+|   ├── train.json
 │   ├── val.json
 │   ├── test.json
 │   ├── train_balanced.json
